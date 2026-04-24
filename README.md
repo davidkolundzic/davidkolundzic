@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**davidkolundzic/davidkolundzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on Angular, enterprise UI systems and scalable frontend architecture.
 
-Here are some ideas to get you started:
+I build real business applications with a strong focus on performance, maintainability and clean structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Focus
+
+- Angular (standalone, signals, OnPush, reactive forms)
+- TypeScript, RxJS
+- SCSS, Bootstrap, Angular Material
+- Frontend architecture (service → store → component)
+- Performance optimisation (TTI/CLS, lazy loading)
+- Testing (Jest, Playwright)
+- .NET backend integration
+
+---
+
+## 🧱 Featured Project
+
+### Axiom Dashboard
+
+Angular application demonstrating scalable frontend architecture for SaaS platforms.
+
+- Feature-based structure
+- Domain-driven models
+- Service → Store → Component separation
+- AI-style video summary workflow
+- Dashboard UI patterns
+
+👉 https://github.com/davidkolundzic/axiom-dashboard
+
+---
+
+## 🧠 Current focus
+
+Exploring modern Angular architecture and AI-assisted development workflows.
